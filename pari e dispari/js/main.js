@@ -1,7 +1,7 @@
 'use strict';
 
-let userNum= Number(prompt('inserisci un numero da 1 a 5'));
-
+const oddEven= prompt('Pari o Dispari?');
+const userNum= Number(prompt('inserisci un numero da 1 a 5'));
 const randomNum= random(1, 5);
 const result= numberSum(`Per un totale di ${userNum} + ${randomNum}`);
 

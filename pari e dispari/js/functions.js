@@ -16,8 +16,11 @@ function random(min, max){
 
 function numberSum(x, y){
     let sum= userNum + randomNum;
-    if(sum % 2 === 0){
-        return true;
+    if(oddEven % 2 === 0){
+        alert('PARI');
+    } else {
+        alert('DISPARI');
     }
-    return false;
+    
+    return sum;
 }

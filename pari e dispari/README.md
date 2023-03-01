@@ -6,7 +6,8 @@
 
 // Credo una variabile che chieda all'utente d'inserire un numero da 1 a 5
 // Creo una funzione che mi generi un numero casuale da 1 a 5
-// Creo una varibile assegnandole il valore generato dalla funzione
+// Inizializzo una varibile assegnandole il valore generato dalla funzione
+// Creo una variabile dentro un'altra funzione che stabilisca se il numero è pari o dispari
 // Stampo a video il numero dell'utente
 // Stampo a video il numero generato dalla funzione
 // Stampo a video il risultato
